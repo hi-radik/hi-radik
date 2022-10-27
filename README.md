@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="400px"/>
+  <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200px"/>
   <div><img src="https://komarev.com/ghpvc/?username=hi-radik&style=flat-square&color=blue" alt=""/></div>
   
 <h1>
@@ -43,3 +43,9 @@ I am a Frontend Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hi-radik&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-radik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
