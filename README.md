@@ -14,7 +14,7 @@
 </div>
 
 ### :man_technologist: About Me:
-I am a Frontend Developer from Russia.
+I am a Frontend Developer.
 
 - :telescope: I do Web Design, Frontend and a little bit of Backend.
 
